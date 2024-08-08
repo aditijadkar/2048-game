@@ -1,3 +1,5 @@
+Are up for a challenge ? Play this game.
+
 How to Play 2048
 ------------------------
 Game Objective:
